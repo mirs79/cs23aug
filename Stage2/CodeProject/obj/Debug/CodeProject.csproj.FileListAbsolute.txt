@@ -1,0 +1,10 @@
+C:\Users\adm\source\repos\Stage2\CodeProject\bin\Debug\CodeProject.exe
+C:\Users\adm\source\repos\Stage2\CodeProject\bin\Debug\CodeProject.pdb
+C:\Users\adm\source\repos\Stage2\CodeProject\obj\Debug\CodeProject.csprojAssemblyReference.cache
+C:\Users\adm\source\repos\Stage2\CodeProject\obj\Debug\CodeProject.exe
+C:\Users\adm\source\repos\Stage2\CodeProject\obj\Debug\CodeProject.pdb
+C:\Users\adm\Desktop\cs2023august\Stage2\CodeProject\obj\Debug\CodeProject.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\cs2023august\Stage2\CodeProject\obj\Debug\CodeProject.exe
+C:\Users\adm\Desktop\cs2023august\Stage2\CodeProject\obj\Debug\CodeProject.pdb
+C:\Users\adm\Desktop\cs2023august\Stage2\CodeProject\bin\Debug\CodeProject.exe
+C:\Users\adm\Desktop\cs2023august\Stage2\CodeProject\bin\Debug\CodeProject.pdb

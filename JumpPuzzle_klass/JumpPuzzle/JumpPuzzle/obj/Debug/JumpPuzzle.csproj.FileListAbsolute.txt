@@ -1,0 +1,5 @@
+C:\Users\adm\Desktop\cs2023august\JumpPuzzle\JumpPuzzle\bin\Debug\JumpPuzzle.exe
+C:\Users\adm\Desktop\cs2023august\JumpPuzzle\JumpPuzzle\bin\Debug\JumpPuzzle.pdb
+C:\Users\adm\Desktop\cs2023august\JumpPuzzle\JumpPuzzle\obj\Debug\JumpPuzzle.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\cs2023august\JumpPuzzle\JumpPuzzle\obj\Debug\JumpPuzzle.exe
+C:\Users\adm\Desktop\cs2023august\JumpPuzzle\JumpPuzzle\obj\Debug\JumpPuzzle.pdb

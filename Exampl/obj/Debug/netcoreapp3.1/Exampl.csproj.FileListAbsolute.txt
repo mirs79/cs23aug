@@ -1,0 +1,11 @@
+C:\Users\adm\Desktop\cs2023august\Exampl\bin\Debug\netcoreapp3.1\Exampl.exe
+C:\Users\adm\Desktop\cs2023august\Exampl\bin\Debug\netcoreapp3.1\Exampl.deps.json
+C:\Users\adm\Desktop\cs2023august\Exampl\bin\Debug\netcoreapp3.1\Exampl.runtimeconfig.json
+C:\Users\adm\Desktop\cs2023august\Exampl\bin\Debug\netcoreapp3.1\Exampl.runtimeconfig.dev.json
+C:\Users\adm\Desktop\cs2023august\Exampl\bin\Debug\netcoreapp3.1\Exampl.dll
+C:\Users\adm\Desktop\cs2023august\Exampl\bin\Debug\netcoreapp3.1\Exampl.pdb
+C:\Users\adm\Desktop\cs2023august\Exampl\obj\Debug\netcoreapp3.1\Exampl.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\cs2023august\Exampl\obj\Debug\netcoreapp3.1\Exampl.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\cs2023august\Exampl\obj\Debug\netcoreapp3.1\Exampl.AssemblyInfo.cs
+C:\Users\adm\Desktop\cs2023august\Exampl\obj\Debug\netcoreapp3.1\Exampl.dll
+C:\Users\adm\Desktop\cs2023august\Exampl\obj\Debug\netcoreapp3.1\Exampl.pdb

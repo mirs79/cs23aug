@@ -1,0 +1,11 @@
+C:\Users\adm\Desktop\cs2023august\Coolections\obj\Debug\netcoreapp3.1\Coolections.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\cs2023august\Coolections\obj\Debug\netcoreapp3.1\Coolections.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\cs2023august\Coolections\obj\Debug\netcoreapp3.1\Coolections.AssemblyInfo.cs
+C:\Users\adm\Desktop\cs2023august\Coolections\bin\Debug\netcoreapp3.1\Coolections.exe
+C:\Users\adm\Desktop\cs2023august\Coolections\bin\Debug\netcoreapp3.1\Coolections.deps.json
+C:\Users\adm\Desktop\cs2023august\Coolections\bin\Debug\netcoreapp3.1\Coolections.runtimeconfig.json
+C:\Users\adm\Desktop\cs2023august\Coolections\bin\Debug\netcoreapp3.1\Coolections.runtimeconfig.dev.json
+C:\Users\adm\Desktop\cs2023august\Coolections\bin\Debug\netcoreapp3.1\Coolections.dll
+C:\Users\adm\Desktop\cs2023august\Coolections\bin\Debug\netcoreapp3.1\Coolections.pdb
+C:\Users\adm\Desktop\cs2023august\Coolections\obj\Debug\netcoreapp3.1\Coolections.dll
+C:\Users\adm\Desktop\cs2023august\Coolections\obj\Debug\netcoreapp3.1\Coolections.pdb

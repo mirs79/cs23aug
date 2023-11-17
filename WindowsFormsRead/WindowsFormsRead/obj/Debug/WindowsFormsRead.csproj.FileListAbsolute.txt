@@ -1,0 +1,8 @@
+C:\Users\adm\Desktop\cs2023august\WindowsFormsRead\WindowsFormsRead\obj\Debug\WindowsFormsRead.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\cs2023august\WindowsFormsRead\WindowsFormsRead\obj\Debug\WindowsFormsRead.Form1.resources
+C:\Users\adm\Desktop\cs2023august\WindowsFormsRead\WindowsFormsRead\obj\Debug\WindowsFormsRead.Properties.Resources.resources
+C:\Users\adm\Desktop\cs2023august\WindowsFormsRead\WindowsFormsRead\obj\Debug\WindowsFormsRead.csproj.GenerateResource.cache
+C:\Users\adm\Desktop\cs2023august\WindowsFormsRead\WindowsFormsRead\bin\Debug\WindowsFormsRead.exe
+C:\Users\adm\Desktop\cs2023august\WindowsFormsRead\WindowsFormsRead\bin\Debug\WindowsFormsRead.pdb
+C:\Users\adm\Desktop\cs2023august\WindowsFormsRead\WindowsFormsRead\obj\Debug\WindowsFormsRead.exe
+C:\Users\adm\Desktop\cs2023august\WindowsFormsRead\WindowsFormsRead\obj\Debug\WindowsFormsRead.pdb

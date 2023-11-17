@@ -1,0 +1,11 @@
+C:\Users\adm\Desktop\cs2023august\ExamplSet\bin\Debug\netcoreapp3.1\ExamplSet.exe
+C:\Users\adm\Desktop\cs2023august\ExamplSet\bin\Debug\netcoreapp3.1\ExamplSet.deps.json
+C:\Users\adm\Desktop\cs2023august\ExamplSet\bin\Debug\netcoreapp3.1\ExamplSet.runtimeconfig.json
+C:\Users\adm\Desktop\cs2023august\ExamplSet\bin\Debug\netcoreapp3.1\ExamplSet.runtimeconfig.dev.json
+C:\Users\adm\Desktop\cs2023august\ExamplSet\bin\Debug\netcoreapp3.1\ExamplSet.dll
+C:\Users\adm\Desktop\cs2023august\ExamplSet\bin\Debug\netcoreapp3.1\ExamplSet.pdb
+C:\Users\adm\Desktop\cs2023august\ExamplSet\obj\Debug\netcoreapp3.1\ExamplSet.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\cs2023august\ExamplSet\obj\Debug\netcoreapp3.1\ExamplSet.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\cs2023august\ExamplSet\obj\Debug\netcoreapp3.1\ExamplSet.AssemblyInfo.cs
+C:\Users\adm\Desktop\cs2023august\ExamplSet\obj\Debug\netcoreapp3.1\ExamplSet.dll
+C:\Users\adm\Desktop\cs2023august\ExamplSet\obj\Debug\netcoreapp3.1\ExamplSet.pdb

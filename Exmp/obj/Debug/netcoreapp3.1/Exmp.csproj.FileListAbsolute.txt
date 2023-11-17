@@ -1,0 +1,10 @@
+C:\Users\adm\Desktop\cs2023august\Exmp\bin\Debug\netcoreapp3.1\Exmp.exe
+C:\Users\adm\Desktop\cs2023august\Exmp\bin\Debug\netcoreapp3.1\Exmp.deps.json
+C:\Users\adm\Desktop\cs2023august\Exmp\bin\Debug\netcoreapp3.1\Exmp.runtimeconfig.json
+C:\Users\adm\Desktop\cs2023august\Exmp\bin\Debug\netcoreapp3.1\Exmp.runtimeconfig.dev.json
+C:\Users\adm\Desktop\cs2023august\Exmp\bin\Debug\netcoreapp3.1\Exmp.dll
+C:\Users\adm\Desktop\cs2023august\Exmp\bin\Debug\netcoreapp3.1\Exmp.pdb
+C:\Users\adm\Desktop\cs2023august\Exmp\obj\Debug\netcoreapp3.1\Exmp.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\cs2023august\Exmp\obj\Debug\netcoreapp3.1\Exmp.AssemblyInfo.cs
+C:\Users\adm\Desktop\cs2023august\Exmp\obj\Debug\netcoreapp3.1\Exmp.dll
+C:\Users\adm\Desktop\cs2023august\Exmp\obj\Debug\netcoreapp3.1\Exmp.pdb

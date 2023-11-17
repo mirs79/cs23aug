@@ -1,0 +1,9 @@
+C:\Users\adm\Desktop\cs2023august\WindFormsDialog\bin\Debug\WindFormsDialog.exe
+C:\Users\adm\Desktop\cs2023august\WindFormsDialog\bin\Debug\WindFormsDialog.pdb
+C:\Users\adm\Desktop\cs2023august\WindFormsDialog\obj\Debug\WindFormsDialog.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\cs2023august\WindFormsDialog\obj\Debug\WindFormsDialog.Form1.resources
+C:\Users\adm\Desktop\cs2023august\WindFormsDialog\obj\Debug\WindFormsDialog.Form2.resources
+C:\Users\adm\Desktop\cs2023august\WindFormsDialog\obj\Debug\WindFormsDialog.Properties.Resources.resources
+C:\Users\adm\Desktop\cs2023august\WindFormsDialog\obj\Debug\WindFormsDialog.csproj.GenerateResource.cache
+C:\Users\adm\Desktop\cs2023august\WindFormsDialog\obj\Debug\WindFormsDialog.exe
+C:\Users\adm\Desktop\cs2023august\WindFormsDialog\obj\Debug\WindFormsDialog.pdb
