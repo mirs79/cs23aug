@@ -10,12 +10,11 @@ namespace PazlMVP
         String[] state = "X_X_X_ _o_o_o".Split('_');
         
         int emptyPosition = 3;
-
-        public String GetState()
+              
+        public void Begin()
         {
-            String S;
-            S = String.Join("", state);
-            return S;
+            state = "X_X_X_ _o_o_o".Split('_');
+            emptyPosition = 3;
         }
 
         public void Move(int move)
@@ -45,6 +44,7 @@ namespace PazlMVP
             state[emptyPosition] = state[move];
             state[move] = " ";
             emptyPosition = move;
+            
         }
 
         public int GetEmptyPosition()

@@ -24,10 +24,12 @@ namespace PazlMVP
             };
         }
 
-        public void  SetPresenter(Presenter p)
-        {
-            this.presenter = p;
-        }
+        public event PuzzleEventHandler Move; // ++ 17.11.23
+        public  event PuzzleResetEventHandler Begin;
+
+        /* public void  SetPresenter(Presenter p)  - 17.11.23
+         {        this.presenter = p;
+         }*/
 
         public void Reset()
         {
@@ -55,37 +57,44 @@ namespace PazlMVP
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            presenter.Move(0);
+            this.Move(0);   // presenter.Move(0); 17.11.23
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            presenter.Move(1);
+            this.Move(1);
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            presenter.Move(2);
+            this.Move(2);
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            presenter.Move(3);
+            this.Move(3);
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            presenter.Move(4);
+            this.Move(4);
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            presenter.Move(5);
+            this.Move(5);
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-            presenter.Move(6);
+            this.Move(6);
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            
+           this.Begin();
+
         }
     }
 }

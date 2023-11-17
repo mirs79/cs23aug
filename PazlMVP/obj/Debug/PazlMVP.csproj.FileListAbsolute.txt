@@ -6,3 +6,11 @@ C:\Users\adm\source\repos\PazlMVP\obj\Debug\PazlMVP.Properties.Resources.resourc
 C:\Users\adm\source\repos\PazlMVP\obj\Debug\PazlMVP.csproj.GenerateResource.cache
 C:\Users\adm\source\repos\PazlMVP\obj\Debug\PazlMVP.exe
 C:\Users\adm\source\repos\PazlMVP\obj\Debug\PazlMVP.pdb
+C:\Users\adm\Desktop\cs23aug\PazlMVP\bin\Debug\PazlMVP.exe
+C:\Users\adm\Desktop\cs23aug\PazlMVP\bin\Debug\PazlMVP.pdb
+C:\Users\adm\Desktop\cs23aug\PazlMVP\obj\Debug\PazlMVP.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\cs23aug\PazlMVP\obj\Debug\PazlMVP.View.resources
+C:\Users\adm\Desktop\cs23aug\PazlMVP\obj\Debug\PazlMVP.Properties.Resources.resources
+C:\Users\adm\Desktop\cs23aug\PazlMVP\obj\Debug\PazlMVP.csproj.GenerateResource.cache
+C:\Users\adm\Desktop\cs23aug\PazlMVP\obj\Debug\PazlMVP.exe
+C:\Users\adm\Desktop\cs23aug\PazlMVP\obj\Debug\PazlMVP.pdb

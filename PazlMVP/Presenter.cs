@@ -13,7 +13,8 @@ namespace PazlMVP
         public Presenter(IView view)
         {
             this.view = view;
-            view.SetPresenter(this);
+            view.Move += View_Move; /// view.SetPresenter(this); -17.11.23
+            view.Begin += View_Begin;
             this.model = new Model();
         }
 
@@ -23,7 +24,7 @@ namespace PazlMVP
             view.Show();
         }
 
-        public void Move(int index)
+        public void View_Move(int index)   ///Move(int index)-17.11.23
         {
             try
             {
@@ -38,6 +39,12 @@ namespace PazlMVP
             {
                 view.Message(ex.Message);
             }
+        }
+
+        public void View_Begin()
+        {
+            model.Begin();
+            view.Reset();
         }
     }
 }
